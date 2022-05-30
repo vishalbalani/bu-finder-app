@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/activity_edit_profile.xml" value="0.1578125" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/activity_found_form.xml" value="0.22" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/activity_login.xml" value="0.1578125" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/activity_lost_form.xml" value="0.1578125" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/fragment_found.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/fragment_lost.xml" value="0.22" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/fragment_settings.xml" value="0.1578125" />
+        <entry key="..\:/Users/Vishal Balani/Documents/BUFinder/app/src/main/res/layout/singlerow.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

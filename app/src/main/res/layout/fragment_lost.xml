@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".LostFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/review1"
+        android:layout_width="282dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:clipChildren="true"
+        android:clipToPadding="true"
+        android:maxHeight="150dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:clickable="true"
+        android:src="@drawable/ic_baseline_add_24"
+        app:backgroundTint="@color/purple_200"
+        tools:ignore="ContentDescription"
+        android:layout_marginRight="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginBottom="15dp"/>
+
+</LinearLayout>
